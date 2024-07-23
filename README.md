@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center"> 
-  <img src="assets/projetocupcake.jpg" alt="Imagem do projeto finalizado">
+  <img src="./assets/projetocupcake.jpg" alt="Imagem do projeto finalizado">
 </p>
 
 ## 🚀 Tecnologias
@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O receita cupcake é uma pagina onde você ira aprender a fazer um capcake delicioso.
 
-- [Acesse o projeto finalizado, online](https://github.com/DEVAlexHenrique/devlinks)
+- [Acesse o projeto finalizado, online](https://alexprado2.github.io/receitarocket/)
 
 
 
